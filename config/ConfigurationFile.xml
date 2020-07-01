@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<MAP>
+		<PARAM NAME="BOT_NAME" VALUE="ROB-BCC" />
+		<PARAM NAME="SQL_CONNECTION_STRING" VALUE="Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=CRDB-NEW;Data Source=localhost\SQLEXPRESS" />
+		<PARAM NAME="BOT_OPERATOR_NAME" VALUE="Sanjay Datey" />
+		<PARAM NAME="BOT_OPERATOR_EMAIL" VALUE="Sanjay.Datye@ssc.tcgc.in" />
+		<PARAM NAME="ENABLE_LOGGING" VALUE="True" />
+	</MAP>
+</Configuration>
