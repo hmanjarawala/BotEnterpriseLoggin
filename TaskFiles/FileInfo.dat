@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="ReadSystemConfiguration.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/13/2019 14:28:16</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="MasterTask.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/10/2020 14:55:33</Property>
+      <Property Name="RunDuration">00:00:57</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="PerformTransaction.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/10/2020 14:55:33</Property>
+      <Property Name="RunDuration">00:00:55</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
